@@ -23,3 +23,4 @@ A todolist app to keep track of all your tasks.
 - Understand how the Provider package works and use it to manage app state.
 
 
+![Finished App](https://github.com/ArafatRohan93/Todoey-Flutter/blob/master/screenshot.gif)
